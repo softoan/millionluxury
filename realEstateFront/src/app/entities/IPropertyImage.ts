@@ -1,0 +1,1 @@
+export interface IPropertyImage { idPropertyImage: string; idProperty: string; file: string; enabled: boolean; }
